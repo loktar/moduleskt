@@ -1,0 +1,7 @@
+jar.baseName = 'moduleskt-user-repository-inmemory'
+
+dependencies {
+    compile project(':user')
+    compile('org.springframework.boot:spring-boot-starter')
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+}
