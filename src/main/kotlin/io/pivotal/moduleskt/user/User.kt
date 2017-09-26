@@ -1,4 +1,4 @@
-package io.pivotal.moduleskt
+package io.pivotal.moduleskt.user
 
 data class User(
         val id: Long,

@@ -1,4 +1,4 @@
-package io.pivotal.moduleskt
+package io.pivotal.moduleskt.user
 
 import org.springframework.web.bind.annotation.*
 
